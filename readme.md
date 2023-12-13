@@ -114,6 +114,7 @@ O corpo da requisição deve conter as informações do participante a ser cadas
 
 ```json
 {
+  "id": "36b8f84d-df4e-4d49-b662-bcde71a8764f",
   "name": "Pedro Lopes",
   "imageUrl": "https://github.com/PedroArnaldo",
   "xp": 320,
