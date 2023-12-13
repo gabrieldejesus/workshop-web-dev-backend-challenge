@@ -1,4 +1,21 @@
-# Back-end
+<p align="center">
+  <img src="./public/cover.png" alt="Back-end Challenge">
+</p>
+
+<br />
+
+<div align="center"><strong>Back-end Challenge</strong></div>
+<div align="center">This is the last challenge for participants in the backend web development workshop.</div>
+
+<br />
+
+<div align="center">
+  <sub>Created by <a href="https://www.instagram.com/igabrieldejesus">Gabriel de Jesus</a>.</sub>
+</div>
+
+<br />
+
+# Desafio
 
 Sua tarefa é construir uma API e banco de dados para uma aplicação chamada MegaRank. A aplicação é um rank onde será listado todos os participantes de uma competição com o link da sua foto, nome e sobrenome, XP (Experiência) e um link para uma rede social.
 
